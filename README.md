@@ -1,5 +1,5 @@
 # ROBUST-ANGULAR-POSITIONING-CONTROLLER-DESIGN-WITH-ECCENTRICITY-COMPENSATION
-The aim of this project is to help to automate Eotvo Pendulum Experiment.
+The aim of this project is to help to automate Eotvos Pendulum Experiment.
 
 ![3DDESIGNGIF](https://user-images.githubusercontent.com/68166794/144744750-2a5f51ad-dfff-4e9c-8161-c9ccb69c1b1e.gif)
 
